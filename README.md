@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Noyon Mozumder
 
-<!--
-**Noyon-34/Noyon-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Competitive Programmer  
+💻 C++ | Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Competitive Programming
+- Codeforces
+- CodeChef
+- AtCode
+- LeetCode
+
+---
+
+## 🛠️ Skills
+- C++
+- STL
+- Data Structures & Algorithms
+- Git & GitHub
+
+---
+
+## 📌 Repositories
+- 🔹 competitive-programming
+
+---
+
+## 🌐 Profiles
+- Codeforces: https://codeforces.com/profile/Noyon_Mozumder
+- GitHub: https://github.com/Noyon-34
+
+---
+
+⭐ Always learning, always improving
