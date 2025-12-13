@@ -34,17 +34,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noyon-34&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noyon-34&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noyon-34&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noyon-34&layout=compact&theme=radical)
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noyon-34)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noyon-34&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noyon-34&theme=radical)
 
 
 ⭐ Always learning, always improving
