@@ -8,7 +8,7 @@
 ## 🔥 Competitive Programming
 - Codeforces
 - CodeChef
-- AtCode
+- AtCoder
 - LeetCode
 
 ---
