@@ -26,17 +26,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noyon-34&show_icons=true&theme=nightowl)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noyon-34&layout=compact&theme=nightowl)
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noyon-34&theme=nightowl)
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Noyon-34&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Noyon-34&theme=nightowl&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noyon34&theme=nightowl&hide_border=false&layout=compact)
 
 ## 🌐 Profiles
 
